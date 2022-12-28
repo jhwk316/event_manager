@@ -1,1 +1,2 @@
-Event Manager Project
+The Odin Project
+  Event Manager
